@@ -1,0 +1,16 @@
+
+f	java:S106"+Replace this use of System.out by a logger.(ë¥ØñJ$f38f38ff-c930-45fb-a2bd-62e459493a66
+f	java:S106"+Replace this use of System.out by a logger.(„úÊ¡J$56790291-a55f-43d1-9df2-a37113a3fa0c
+f	java:S106"+Replace this use of System.out by a logger.(š‚ÿØJ$efefea38-130e-4804-9b63-6d20d259eeec
+k	java:S106"+Replace this use of System.out by a logger.(½Õ½úÿÿÿÿJ$353b4a9b-dd7b-4230-ab5f-40e7a52ce6c9
+}
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(½Õ½úÿÿÿÿJ$fb1f2366-6667-41cb-a236-52da58d29d8e
+f	java:S106"+Replace this use of System.out by a logger.(±ĞŒJ$f13c5168-42ad-4ffe-b4ef-c6458514c07f
+f	java:S106"+Replace this use of System.out by a logger.(™œÑàJ$366da786-d1ad-44ce-8d07-3684d0080445
+„
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(™œÑàJ$74b3b8f0-1226-4d0e-8ccc-989efe864569
+m	java:S106"+Replace this use of System.out by a logger.(ü‘ô8¨€ã€2J$0fc88506-bfd7-4fc9-9b34-c437d7f7f6e9
+p
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ãJ$8b829203-98a4-4f68-b70d-8e0d2ca5b8ff
+u
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…ÄúÿÿÿÿJ$1a988ad0-dea2-4e0e-a2c0-8b22d8de3475
